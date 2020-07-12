@@ -1,0 +1,32 @@
+Sriram decides to open a pizza shop, so he have to get supplies for making two types of pizza's,
+Big pizza and small pizza, 
+Big pizza= 4 tomato slices+ 1 cheese slices
+Small pizza= 2 tomato slices+ 1 cheese slices
+so he wants a algorithm to find, with the given amount of slices in both tomato and cheese how many 
+big and small pizza's can be made
+help him to get the algorithm
+
+Input description:
+Number of tomato and cheese slices in single line
+
+output decription:
+count of big and small pizza
+
+Sample input:
+7 4
+
+Sample output:
+Big Pizza: 1
+Small Pizza: 3
+
+Explanation:
+Big pizza needs 4 tomato and 1 cheese, so the given total tomato slices is 7, and small slices is 4, with the
+given we can make (4*1=4 and 1*1=1) only one big pizza and (2*3=6 and 1*3=3) three small pizzas
+so the output is 3
+
+Sample input:
+12 8
+
+Sample output:
+Big Pizza: 3
+Small Pizza: 6
