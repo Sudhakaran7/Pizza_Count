@@ -11,7 +11,7 @@ for i in range(1,val):
     Big_count+=1
   else:
     break
-for j in range(0,val):
+for j in range(1,val):
   if(2*j<=tomato_slices and 1*j<=cheese_slices):
     small_count+=1
   else:
